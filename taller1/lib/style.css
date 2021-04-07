@@ -1,0 +1,23 @@
+/* Add your styles here */
+.arreglarcajas{
+  margin: 1px;
+  min-height: 300px;
+  text-align: center;
+  background-color: gainsboro;
+  
+}
+.arreglarcajas2{
+  margin: 1px;
+  min-height: 300px;
+  text-align: center;
+  background-color: gainsboro;
+  
+}
+.imga{
+max-width: 450px;  
+height: 300px;  
+}
+h3
+{
+  text-align: center;
+}
